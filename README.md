@@ -5,12 +5,12 @@
 
 ## 📊 Weekly Progress Dashboard
 
-- **Weekly Target:** `4 / 56` problems solved (7.1%)
+- **Weekly Target:** `5 / 56` problems solved (8.9%)
 - **Structure:** `7 Days` × `8 Levels/day` × `1 Questions/level` = `8 Questions/day`
 - **Verified by Sandbox:** 100% of committed code passed isolated unit testing before pushing.
 
 ```text
-Progress: [=                   ] 7.1%
+Progress: [=                   ] 8.9%
 ```
 
 ## 🗓️ 7-Day Curriculum & Daily Themes
@@ -29,7 +29,7 @@ Progress: [=                   ] 7.1%
 
 | Day & Topic | L01 | L02 | L03 | L04 | L05 | L06 | L07 | L08 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Day 01**<br><sub>Two Pointers</sub> | [1](day-01/level-01/question-01/question.md) | [1](day-01/level-02/question-01/question.md) | [1](day-01/level-03/question-01/question.md) | [1](day-01/level-04/question-01/question.md) | · | · | · | · |
+| **Day 01**<br><sub>Two Pointers</sub> | [1](day-01/level-01/question-01/question.md) | [1](day-01/level-02/question-01/question.md) | [1](day-01/level-03/question-01/question.md) | [1](day-01/level-04/question-01/question.md) | [1](day-01/level-05/question-01/question.md) | · | · | · |
 | **Day 02**<br><sub>Two Pointers</sub> | · | · | · | · | · | · | · | · |
 | **Day 03**<br><sub>Two Pointers</sub> | · | · | · | · | · | · | · | · |
 | **Day 04**<br><sub>Two Pointers</sub> | · | · | · | · | · | · | · | · |

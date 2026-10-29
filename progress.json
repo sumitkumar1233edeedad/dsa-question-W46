@@ -1,14 +1,14 @@
 {
   "repository_name": "dsa-question-W46",
   "total_target": 56,
-  "total_solved": 4,
-  "completion_percentage": 7.1,
+  "total_solved": 5,
+  "completion_percentage": 8.9,
   "is_completed": false,
   "current_pointer": {
     "day": 1,
-    "level": 5,
+    "level": 6,
     "question": 1,
-    "folder_path": "day-01/level-05/question-01/"
+    "folder_path": "day-01/level-06/question-01/"
   },
   "solved_solutions": [
     {
@@ -49,8 +49,18 @@
       "title": "Valid Palindrome with One Deletion",
       "difficulty": "Medium",
       "topic": "Two Pointers",
+      "commit_sha": "23318791c405d486ee1a0966b819eef5194fc922"
+    },
+    {
+      "day": 1,
+      "level": 5,
+      "question": 1,
+      "folder": "day-01/level-05/question-01/",
+      "title": "Day 01 Level 05 Q01: Three Sum & Four Sum (Core)",
+      "difficulty": "Medium",
+      "topic": "Two Pointers",
       "commit_sha": ""
     }
   ],
-  "last_updated": "2026-10-29T09:20:00.270513+00:00"
+  "last_updated": "2026-10-29T10:40:49.504709+00:00"
 }
