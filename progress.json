@@ -1,11 +1,26 @@
 {
-  "repo_name": "dsa-question-W46",
-  "goal_id": 3,
-  "status": "CONFIGURED",
-  "solved_count": 0,
+  "repository_name": "dsa-question-W46",
   "total_target": 56,
-  "current_day": 1,
-  "current_level": 1,
-  "current_question": 1,
-  "last_updated": "2026-10-29T04:51:56.825090+00:00"
+  "total_solved": 1,
+  "completion_percentage": 1.8,
+  "is_completed": false,
+  "current_pointer": {
+    "day": 1,
+    "level": 2,
+    "question": 1,
+    "folder_path": "day-01/level-02/question-01/"
+  },
+  "solved_solutions": [
+    {
+      "day": 1,
+      "level": 1,
+      "question": 1,
+      "folder": "day-01/level-01/question-01/",
+      "title": "Reverse String",
+      "difficulty": "Easy",
+      "topic": "Two Pointers",
+      "commit_sha": ""
+    }
+  ],
+  "last_updated": "2026-10-29T05:56:32.815744+00:00"
 }
