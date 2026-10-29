@@ -1,14 +1,14 @@
 {
   "repository_name": "dsa-question-W46",
   "total_target": 56,
-  "total_solved": 1,
-  "completion_percentage": 1.8,
+  "total_solved": 2,
+  "completion_percentage": 3.6,
   "is_completed": false,
   "current_pointer": {
     "day": 1,
-    "level": 2,
+    "level": 3,
     "question": 1,
-    "folder_path": "day-01/level-02/question-01/"
+    "folder_path": "day-01/level-03/question-01/"
   },
   "solved_solutions": [
     {
@@ -19,8 +19,18 @@
       "title": "Reverse String",
       "difficulty": "Easy",
       "topic": "Two Pointers",
+      "commit_sha": "2d6d18f7a76562600f9ea695dec049a2f6e54a81"
+    },
+    {
+      "day": 1,
+      "level": 2,
+      "question": 1,
+      "folder": "day-01/level-02/question-01/",
+      "title": "Remove Element",
+      "difficulty": "Easy",
+      "topic": "Two Pointers",
       "commit_sha": ""
     }
   ],
-  "last_updated": "2026-10-29T05:56:32.815744+00:00"
+  "last_updated": "2026-10-29T07:33:13.365985+00:00"
 }
