@@ -1,14 +1,14 @@
 {
   "repository_name": "dsa-question-W46",
   "total_target": 56,
-  "total_solved": 9,
-  "completion_percentage": 16.1,
+  "total_solved": 10,
+  "completion_percentage": 17.9,
   "is_completed": false,
   "current_pointer": {
     "day": 2,
-    "level": 2,
+    "level": 3,
     "question": 1,
-    "folder_path": "day-02/level-02/question-01/"
+    "folder_path": "day-02/level-03/question-01/"
   },
   "solved_solutions": [
     {
@@ -99,8 +99,18 @@
       "title": "Reverse Array In-Place",
       "difficulty": "Easy",
       "topic": "Two Pointers",
+      "commit_sha": "9167124d247cbc066211bd5a2ba7bcf31bcf4e69"
+    },
+    {
+      "day": 2,
+      "level": 2,
+      "question": 1,
+      "folder": "day-02/level-02/question-01/",
+      "title": "Remove Target Value In-Place",
+      "difficulty": "Easy",
+      "topic": "Two Pointers",
       "commit_sha": ""
     }
   ],
-  "last_updated": "2026-10-30T04:28:26.714636+00:00"
+  "last_updated": "2026-10-30T04:32:27.983799+00:00"
 }
