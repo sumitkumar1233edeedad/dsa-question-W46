@@ -1,14 +1,14 @@
 {
   "repository_name": "dsa-question-W46",
   "total_target": 56,
-  "total_solved": 7,
-  "completion_percentage": 12.5,
+  "total_solved": 8,
+  "completion_percentage": 14.3,
   "is_completed": false,
   "current_pointer": {
-    "day": 1,
-    "level": 8,
+    "day": 2,
+    "level": 1,
     "question": 1,
-    "folder_path": "day-01/level-08/question-01/"
+    "folder_path": "day-02/level-01/question-01/"
   },
   "solved_solutions": [
     {
@@ -79,8 +79,18 @@
       "title": "Day 01 Level 07 Q01: Container With Most Water (Core)",
       "difficulty": "Medium",
       "topic": "Two Pointers",
+      "commit_sha": "dbfadddb415bbe6500bf9115fea6e7e46b15820f"
+    },
+    {
+      "day": 1,
+      "level": 8,
+      "question": 1,
+      "folder": "day-01/level-08/question-01/",
+      "title": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "topic": "Two Pointers",
       "commit_sha": ""
     }
   ],
-  "last_updated": "2026-10-29T10:51:04.549467+00:00"
+  "last_updated": "2026-10-30T04:27:06.391084+00:00"
 }
