@@ -1,44 +1,29 @@
-# ⚡ dsa-question-W46
-
-> Automated Daily Data Structures & Algorithms (DSA) Practice Repository.
-> Generated and verified using **AutoDailySolver** with LangGraph Multi-Agent Architecture & Sandbox Validation.
-
-## 📊 Weekly Progress Dashboard
-
-- **Weekly Target:** `10 / 56` problems solved (17.9%)
-- **Structure:** `7 Days` × `8 Levels/day` × `1 Questions/level` = `8 Questions/day`
-- **Verified by Sandbox:** 100% of committed code passed isolated unit testing before pushing.
-
-```text
-Progress: [===                 ] 17.9%
-```
-
-## 🗓️ 7-Day Curriculum & Daily Themes
-
-| Day | Focus Topic | Daily Theme | Target / Day |
-| :---: | :--- | :--- | :---: |
-| Day 01 | **Two Pointers** | Opposite Direction Pointers | 8 problems |
-| Day 02 | **Two Pointers** | Same Direction & Fast-Slow Pointers | 8 problems |
-| Day 03 | **Two Pointers** | In-Place Array Compaction | 8 problems |
-| Day 04 | **Two Pointers** | Sorted Array Pair Searches | 8 problems |
-| Day 05 | **Two Pointers** | Triplet & Quadruplet Sums | 8 problems |
-| Day 06 | **Two Pointers** | String Palindromes & Subsequences | 8 problems |
-| Day 07 | **Two Pointers** | Container Areas & Trapping Water | 8 problems |
-
-## 🧭 8-Level Mastery Syllabus & Progressive Problem Matrix
-
-| Day & Topic | L01 | L02 | L03 | L04 | L05 | L06 | L07 | L08 |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Day 01**<br><sub>Two Pointers</sub> | [1](day-01/level-01/question-01/question.md) | [1](day-01/level-02/question-01/question.md) | [1](day-01/level-03/question-01/question.md) | [1](day-01/level-04/question-01/question.md) | [1](day-01/level-05/question-01/question.md) | [1](day-01/level-06/question-01/question.md) | [1](day-01/level-07/question-01/question.md) | [1](day-01/level-08/question-01/question.md) |
-| **Day 02**<br><sub>Two Pointers</sub> | [1](day-02/level-01/question-01/question.md) | [1](day-02/level-02/question-01/question.md) | · | · | · | · | · | · |
-| **Day 03**<br><sub>Two Pointers</sub> | · | · | · | · | · | · | · | · |
-| **Day 04**<br><sub>Two Pointers</sub> | · | · | · | · | · | · | · | · |
-| **Day 05**<br><sub>Two Pointers</sub> | · | · | · | · | · | · | · | · |
-| **Day 06**<br><sub>Two Pointers</sub> | · | · | · | · | · | · | · | · |
-| **Day 07**<br><sub>Two Pointers</sub> | · | · | · | · | · | · | · | · |
+# 🚀 Weekly DSA Sprint — `dsa-question-W46`
+> **Automated Daily DSA Sprint** · Target: **56 Solved Problems** (8 / day) · Timezone: `Asia/Kolkata`
 
 ---
-### 🛡️ Code Quality & Verification
-- Every problem includes `question.md`, `solution.py`, and `test_solution.py`.
-- Tests are executed and validated inside an AST-checked, sandboxed execution environment before any git commit is performed.
-- Powered by [AutoDailySolver](https://github.com/sumitkumar1233edeedad/auto-daily-solver).
+
+## 📅 7-Day Curriculum Schedule
+| Day | Topic Category | Strategic Focus | Daily Quota |
+|:---:|:---|:---|:---:|
+| Day 01 | **Two Pointers** | Opposite Direction Pointers | 8 Qs |
+| Day 02 | **Two Pointers** | Same Direction & Fast-Slow Pointers | 8 Qs |
+| Day 03 | **Two Pointers** | In-Place Array Compaction | 8 Qs |
+| Day 04 | **Two Pointers** | Sorted Array Pair Searches | 8 Qs |
+| Day 05 | **Two Pointers** | Triplet & Quadruplet Sums | 8 Qs |
+| Day 06 | **Two Pointers** | String Palindromes & Subsequences | 8 Qs |
+| Day 07 | **Two Pointers** | Container Areas & Trapping Water | 8 Qs |
+
+---
+
+## 🏗️ Progressive Structure (Table of 8)
+- **7 Days** of dedicated topic-focused practice.
+- **8 Fixed Levels per Day** (`level-01` Fundamentals $\to$ `level-08` Mastery).
+- **1 Question(s) per Level** (8 problems/day).
+- Every question contains:
+  - `question.md` — Full problem statement, constraints, and complexity targets.
+  - `solution.py` — Optimal Python solution with algorithmic explanation.
+  - `test_solution.py` — Comprehensive unit test suite verified in an isolated AST sandbox.
+
+---
+*Generated and managed autonomously by [AutoDailySolver](https://github.com/sumitkumar1233edeedad/auto-daily-solver).*
