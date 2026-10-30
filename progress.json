@@ -1,14 +1,14 @@
 {
   "repository_name": "dsa-question-W46",
   "total_target": 56,
-  "total_solved": 8,
-  "completion_percentage": 14.3,
+  "total_solved": 9,
+  "completion_percentage": 16.1,
   "is_completed": false,
   "current_pointer": {
     "day": 2,
-    "level": 1,
+    "level": 2,
     "question": 1,
-    "folder_path": "day-02/level-01/question-01/"
+    "folder_path": "day-02/level-02/question-01/"
   },
   "solved_solutions": [
     {
@@ -89,8 +89,18 @@
       "title": "Trapping Rain Water",
       "difficulty": "Hard",
       "topic": "Two Pointers",
+      "commit_sha": "d2ac29b4dd4406391ba2be320098578d90d2e8d1"
+    },
+    {
+      "day": 2,
+      "level": 1,
+      "question": 1,
+      "folder": "day-02/level-01/question-01/",
+      "title": "Reverse Array In-Place",
+      "difficulty": "Easy",
+      "topic": "Two Pointers",
       "commit_sha": ""
     }
   ],
-  "last_updated": "2026-10-30T04:27:06.391084+00:00"
+  "last_updated": "2026-10-30T04:28:26.714636+00:00"
 }
